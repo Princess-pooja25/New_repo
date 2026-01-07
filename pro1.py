@@ -3,4 +3,4 @@ b = int(input("Enter second number: "))
 
 sum = a + b
 print("Sum is:", sum)
-print("THis is an addition program.")
+print("This is an addition of 2 numbers.")
