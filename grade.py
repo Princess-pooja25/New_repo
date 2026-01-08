@@ -1,5 +1,5 @@
 marks = int(input("Enter student marks: "))
-
+print("This program is used to calculate grades.")
 if marks >= 95:
     print("Grade: A+")
 elif marks >= 90:
